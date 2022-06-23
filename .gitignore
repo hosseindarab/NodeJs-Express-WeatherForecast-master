@@ -1,0 +1,7 @@
+node_modules
+.env
+index.js.txt
+backup-index.js.txt
+log.js
+log4net.config
+logs

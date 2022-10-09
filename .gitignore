@@ -5,3 +5,5 @@ backup-index.js.txt
 log.js
 log4net.config
 logs
+.vscode
+swagger_output.json

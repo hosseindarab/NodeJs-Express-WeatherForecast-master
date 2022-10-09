@@ -9,7 +9,7 @@
             "webRoot": "${workspaceFolder}"
         },
         {
-            "type": "pwa-node",
+            "type": "node",
             "name": "Run Current File",
             "request": "launch",
             "program": "${workspaceFolder}\\index.js"

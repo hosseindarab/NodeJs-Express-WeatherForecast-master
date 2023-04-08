@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "-": "^0.0.1",
     "@sentry/node": "^5.29.0",
     "@sentry/tracing": "^5.29.0",
     "dateformat": "^4.3.1",
@@ -16,16 +17,18 @@
     "ejs": "^3.1.5",
     "express": "^4.17.1",
     "express-xml-bodyparser": "^0.3.0",
+    "g": "^2.0.1",
     "jsonwebtoken": "^9.0.0",
     "log4js": "^6.3.0",
     "moment-timezone": "^0.5.33",
+    "npm": "^9.6.4",
     "open": "^7.3.0",
     "oracledb": "^5.0.0",
     "redis": "^4.3.1",
     "server": "^0.0.3",
     "swagger-autogen": "^2.6.2",
     "swagger-ui-express": "^4.1.6",
-    "twilio": "^3.84.0",
+    "twilio": "^4.10.0",
     "winston": "^3.3.3"
   }
 }
